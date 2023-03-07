@@ -1,0 +1,5 @@
+- sapi
+- kambing
+- domba
+
+
