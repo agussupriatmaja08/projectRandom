@@ -1,0 +1,4 @@
+- ular
+- singa
+- harimau
+- serigala
